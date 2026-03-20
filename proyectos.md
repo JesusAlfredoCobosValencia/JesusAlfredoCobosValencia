@@ -1,8 +1,12 @@
-# Proyectos
+# 🚀 Proyectos
 
-- Sistema de inventario (Java + MySQL)
-- Aplicación web básica
-- Ejercicios de programación en Java y Python
-- Proyecto académico de bases de datos
+| Proyecto | Descripción |
+|---------|------------|
+| 🛒 Sistema de inventario | Desarrollado en Java con MySQL |
+| 🌐 Aplicación web | Página web básica con HTML/CSS |
+| 💻 Ejercicios de programación | Prácticas en Java y Python |
+| 🗄️ Base de datos | Proyecto académico relacional |
+
+
 
 [Volver a Readme](README.md)

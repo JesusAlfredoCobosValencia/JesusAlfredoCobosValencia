@@ -1,10 +1,23 @@
-# Datos Generales
 
-## Nombre
-Jesús Alfredo Cobos Valencia
 
-## Descripción
-Soy estudiante de Ingeniería en Sistemas y Tecnologías de la Información en la Universidad Veracruzana. Me interesa el desarrollo de software, la programación y la tecnología aplicada a soluciones reales. Me gusta aprender nuevas herramientas y mejorar mis habilidades constantemente. Tengo interés en áreas como backend, bases de datos y sistemas. Busco desarrollar proyectos que aporten valor y experiencia práctica.
+# 👨‍💻 Datos Generales
 
+## 🧑 Nombre
+**Jesús Alfredo Cobos Valencia**
+
+## 📝 Descripción
+Soy estudiante de Ingeniería en Sistemas y Tecnologías de la Información en la Universidad Veracruzana. Me apasiona el desarrollo de software y la resolución de problemas mediante tecnología. Disfruto aprender nuevas herramientas y mejorar constantemente mis habilidades. Tengo interés en backend, bases de datos y sistemas. Busco participar en proyectos que me permitan crecer profesionalmente.
+
+---
+
+## 📬 Contacto
+
+| Tipo        | Información |
+|------------|------------|
+| 📍 Dirección | Av. Tecnológico #456, Col. Universitaria, Xalapa, Veracruz, México |
+| 📧 Correo    | jesus.cobos@example.com |
+| 💻 GitHub    | https://github.com/JesusAlfredoCobosValencia |
+| 🌐 Web       | https://miportafolio.com |
+| 📱 Teléfono  | 2280000000 |
 
 [Volver a Readme](README.md)

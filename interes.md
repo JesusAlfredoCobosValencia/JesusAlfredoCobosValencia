@@ -1,10 +1,10 @@
-# Áreas de Interés
+# 🎯 Áreas de Interés
 
-- Desarrollo web
-- Backend
-- Bases de datos
-- Inteligencia Artificial
-- Sistemas y redes
-- Automatización
+- 💻 Desarrollo Web
+- ⚙️ Backend
+- 🗄️ Bases de Datos
+- 🤖 Inteligencia Artificial
+- 🌐 Redes y Sistemas
+- 🔄 Automatización de procesos
 
 [Volver a Readme](README.md)

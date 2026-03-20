@@ -1,6 +1,11 @@
 # Idiomas
 
-- Español (nativo)
-- Inglés (intermedio)
+# 🌎 Idiomas
+
+| Idioma   | Nivel |
+|----------|------|
+| Español  | Nativo |
+| Inglés   | Intermedio |
+
 
 [Volver a Readme](README.md)

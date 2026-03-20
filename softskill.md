@@ -1,9 +1,8 @@
-# Soft Skills
+# 🤝 Soft Skills
 
-- Trabajo en equipo
-- Comunicación efectiva
-- Resolución de problemas
-- Pensamiento crítico
-- Adaptabilidad
-
+- 🧠 Pensamiento crítico  
+- 👥 Trabajo en equipo  
+- 🗣️ Comunicación efectiva  
+- ⚡ Adaptabilidad  
+- 🔍 Resolución de problemas  
 [Volver a Readme](README.md)

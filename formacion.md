@@ -1,12 +1,15 @@
-# Formación Académica
+# 🎓 Formación Académica
 
-- Ingeniería en Sistemas y Tecnologías de la Información  
-  Universidad Veracruzana
+## 📚 Carrera
+**Ingeniería en Sistemas y Tecnologías de la Información**  
+Universidad Veracruzana
 
-## Cursos relevantes
-- Programación
-- Bases de datos
-- Métodos numéricos
-- Desarrollo de software
+---
+
+## 📘 Cursos Relevantes
+- Programación  
+- Bases de datos  
+- Métodos numéricos  
+- Desarrollo de software  
 
 [Volver a Readme](README.md)

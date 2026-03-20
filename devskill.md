@@ -1,19 +1,29 @@
-# Habilidades Técnicas
+# 🛠️ Habilidades Técnicas
 
-## Lenguajes
-- Java
-- Python
-- JavaScript
+## 💻 Lenguajes
+| Lenguaje |
+|---------|
+| Java |
+| Python |
+| C++ |
+| Arduino |
 
-## Herramientas
-- Git
-- GitHub
-- NetBeans
-- MySQL Workbench
 
-## Tecnologías
-- HTML
-- CSS
-- Bases de datos relacionales
+---
+
+## 🧰 Herramientas
+- Git  
+- GitHub  
+- NetBeans  
+- Sublime
+- MySQL Workbench  
+- VirtualBox
+
+---
+
+## 🌐 Tecnologías
+- HTML  
+- CSS  
+- Bases de datos relacionales  
 
 [Volver a Readme](README.md)
